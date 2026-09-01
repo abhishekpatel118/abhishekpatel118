@@ -41,3 +41,4 @@ Git, GitHub, Eclipse, VSCode
 ## 📫 Connect With Me
 
 [GitHub](https://github.com/abhishekpatel118)
+[LinkedIn](www.linkedin.com/in/118-abhishekpatel)
