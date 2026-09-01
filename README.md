@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Abhishek Patel 👋
 
-<!--
-**abhishekpatel118/abhishekpatel118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE Student | Java Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science student focused on **Java and backend development**. I enjoy building practical applications and strengthening my problem-solving and software development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+* ☕ Strong foundation in **Core Java & OOP**
+* 🗄️ Learning and working with **MySQL & JDBC**
+* 🌱 Currently learning **Spring Boot & REST APIs**
+* 🚀 Building practical Java projects
+* 💡 Interested in Backend Development
+
+## 🛠️ Tech Stack
+
+**Languages:**
+Java, SQL, HTML
+
+**Core Concepts:**
+OOP, Collections, Exception Handling, Multithreading, Java 8 Features
+
+**Database:**
+MySQL, JDBC
+
+**Tools:**
+Git, GitHub, Eclipse, VSCode
+
+## 🚀 Featured Projects
+
+* 🤖 **AI Chatbot — Java**
+* 🏦 **ATM Banking System — Java**
+* 📊 **Student Grade Tracker**
+* 🐍 **Snake Game — Java**
+* 🗳️ **Online Voting System**
+
+## 📚 Currently Learning
+
+`Spring Boot` • `REST APIs` • `Advanced SQL` • `Backend Development`
+
+## 📫 Connect With Me
+
+[GitHub](https://github.com/abhishekpatel118)
